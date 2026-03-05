@@ -204,7 +204,6 @@ Possíveis melhorias para o projeto:
 - Matplotlib
 - Seaborn
 - Scikit-Learn
-- Jupyter Notebook
 
 ---
 
